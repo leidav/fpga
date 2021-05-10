@@ -1,0 +1,2 @@
+read_verilog fpga.v
+synth_ecp5 -noccu2 -nomux -nodram -json blinky.json
