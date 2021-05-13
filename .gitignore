@@ -1,4 +1,7 @@
 blinky.json
 *.config
 *.bit
+*.dot
+*.pdf
 tags
+
