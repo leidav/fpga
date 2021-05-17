@@ -1,6 +1,0 @@
-read_verilog -sv shifter.v
-proc
-opt
-fsm          
-opt
-show -format dot -prefix blinky
