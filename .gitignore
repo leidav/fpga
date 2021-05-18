@@ -3,5 +3,7 @@ blinky.json
 *.bit
 *.dot
 *.pdf
+*.svg
+*.json
 tags
 
